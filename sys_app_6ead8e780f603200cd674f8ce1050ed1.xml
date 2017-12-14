@@ -33,41 +33,4 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
-    <sys_attachment action="INSERT_OR_UPDATE">
-        <average_image_color/>
-        <chunk_size_bytes>734003</chunk_size_bytes>
-        <compressed>true</compressed>
-        <content_type>image/svg+xml</content_type>
-        <file_name>logo</file_name>
-        <image_height/>
-        <image_width/>
-        <size_bytes>3982</size_bytes>
-        <size_compressed>1723</size_compressed>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-12-07 17:39:05</sys_created_on>
-        <sys_id>38eb8bcf4f360300ba264ea18110c790</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-12-07 17:39:05</sys_updated_on>
-        <table_name>ZZ_YYsys_app</table_name>
-        <table_sys_id>6ead8e780f603200cd674f8ce1050ed1</table_sys_id>
-    </sys_attachment>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>H4sIAAAAAAAAAA==</data>
-        <length>16</length>
-        <position>0</position>
-        <sys_attachment display_value="logo" sys_id="38eb8bcf4f360300ba264ea18110c790">38eb8bcf4f360300ba264ea18110c790</sys_attachment>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-12-07 17:39:05</sys_created_on>
-        <sys_id>78eb8bcf4f360300ba264ea18110c790</sys_id>
-    </sys_attachment_doc>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>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</data>
-        <length>2284</length>
-        <position>1</position>
-        <sys_attachment display_value="logo" sys_id="38eb8bcf4f360300ba264ea18110c790">38eb8bcf4f360300ba264ea18110c790</sys_attachment>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-12-07 17:39:05</sys_created_on>
-        <sys_id>f8eb8bcf4f360300ba264ea18110c790</sys_id>
-    </sys_attachment_doc>
 </record_update>
